@@ -19,4 +19,4 @@ body:
   - type: textarea
     attributes:
       label: Want to get some help?
-      placeholder: @mention your team mates to let them know!
+      placeholder: Mention your team mates to let them know!
