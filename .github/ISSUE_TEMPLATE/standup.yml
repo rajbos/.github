@@ -1,11 +1,6 @@
----
 name: "🧍Daily stand up"
-about: Give us your status update
 title: 'Status update today'
 labels: daily
-assignees: ''
----
-
 body:
   - type: markdown
     attributes:
