@@ -1,6 +1,7 @@
 name: 🧍Daily stand up
 title: Status update today
 labels: daily
+about: standup
 body:
   - type: markdown
     attributes:
